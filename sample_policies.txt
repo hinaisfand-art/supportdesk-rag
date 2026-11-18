@@ -1,0 +1,11 @@
+Returns and refunds
+Customers can request a return within 30 calendar days of delivery. Items must be unused and in their original packaging. Customers should provide their order number. Approved refunds are issued to the original payment method within 5–10 business days after the returned item is inspected.
+
+Damaged or incorrect items
+Customers should report damaged or incorrect items within 7 calendar days of delivery. Ask for the order number and a photo of the damaged or incorrect item. Support will review the details before offering a remedy.
+
+Shipping and tracking
+Standard domestic shipping takes 3–5 business days after dispatch. Customers receive a tracking link by email after their order is dispatched. If tracking shows delivered but the package is missing, ask the customer to confirm the shipping address and escalate the case for review.
+
+Order cancellation
+An order can be cancelled before dispatch. Ask for the order number so support can check the fulfillment status. Once an order has been dispatched, the customer can request a return under the returns policy.
